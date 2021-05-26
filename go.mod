@@ -1,4 +1,4 @@
-module jacobsee.com/dynamic-target-registration-service
+module jacobsee.com/dynamic-target-registration-server
 
 go 1.16
 
